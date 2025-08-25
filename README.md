@@ -30,7 +30,7 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ### 1️⃣ Login
 **Login Dashboard** for user authentication and role-based access.  
-![Login Panel](Screenshots/login_panel.png)
+![Login Panel](screenshots/login_panel.png)
 
 - 🔐 Authenticate users and redirect based on role
 
@@ -38,51 +38,51 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ### 2️⃣ Admin Page
 **Admin Dashboard** to manage students, teachers, classes, and attendance.  
-![Admin Panel](Screenshots/admin_panel.png)
+![Admin Panel](screenshots/admin_panel.png)
 
 - **2.1 ADD/REMOVE STUDENT DETAILS** ✏️  
   Update student records efficiently  
-  ![Edit Student Details](Screenshots/edit_student_details.png)  
+  ![Edit Student Details](screenshots/edit_student_details.png)  
 
 - **2.2 ADD ATTENDANCE DETAILS** ➕  
   Insert new attendance records  
-  ![Add Attendance Details](Screenshots/add_attendance_details.png)  
+  ![Add Attendance Details](screenshots/add_attendance_details.png)  
 
 - **2.3 EDIT ATTENDANCE DETAILS** 📝  
   Modify previously recorded attendance  
-  ![Edit Attendance Details](Screenshots/edit_attendance_details.png)  
+  ![Edit Attendance Details](screenshots/edit_attendance_details.png)  
 
 - **2.4 ADD/REMOVE TEACHER DETAILS** 👩‍🏫  
   Manage teacher profiles  
-  ![Edit Teacher Details](Screenshots/edit_teacher_details.png)  
+  ![Edit Teacher Details](screenshots/edit_teacher_details.png)  
 
 - **2.5 ADD/REMOVE ADMIN DETAILS** 👤  
   Update administrative accounts  
-  ![Edit Admin Details](Screenshots/edit_admin_details.png)  
+  ![Edit Admin Details](screenshots/edit_admin_details.png)  
 
 - **2.6 ADD/REMOVE CLASS DETAILS** 🏫  
   Manage class schedules and assignments  
-  ![Edit Class Details](Screenshots/edit_class_details.png)  
+  ![Edit Class Details](screenshots/edit_class_details.png)  
 
 ---
 
 ### 3️⃣ Teacher Page
 **Teacher Dashboard** for attendance management.  
-![Teacher Panel](Screenshots/teacher_panel.png)
+![Teacher Panel](screenshots/teacher_panel.png)
 
 - **3.1 ADD ATTENDANCE DETAILS** ➕  
   Mark attendance for students per session  
-  ![Add Attendance](Screenshots/add_attendance.png)  
+  ![Add Attendance](screenshots/add_attendance.png)  
 
 - **3.2 EDIT ATTENDANCE DETAILS** 📝  
   Correct or update attendance records  
-  ![Edit Attendance](Screenshots/edit_attendance_details.png)   
+  ![Edit Attendance](screenshots/edit_attendance_details.png)   
 
 ---
 
 ### 4️⃣ Student Panel
 **Student Dashboard** to monitor attendance and academic information.  
-![Student Panel](Screenshots/student_panel.png)
+![Student Panel](screenshots/student_panel.png)
 
 - **View Attendance** 📊  
 - **Access Class Details** 🏫
