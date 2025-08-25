@@ -1,30 +1,29 @@
-# Attendance Management System (AMS) - Java Application
+# 🎓 Attendance Management System (AMS) - Java Application
 
 **Trademark:** © HarshVardhan
 
 ---
 
-## Overview
+## 📝 Overview
 The **Attendance Management System (AMS)** is a Java-based solution designed to simplify attendance tracking in educational institutions. It provides **role-based dashboards** for **Admins**, **Teachers**, and **Students**, ensuring secure, efficient, and accurate management of academic data.
 
 AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaFX** for GUI, **MySQL** as the database, and **Java** in the backend. It allows educational institutions to manage attendance efficiently and provides real-time access to records for students.
 
 ---
 
-## Key Features
-- 🔒 Secure login with role-based access (Admin, Teacher, Student)  
-- 🧑‍🎓 Student management: add, edit, and view student records  
-- 👩‍🏫 Teacher management: add and edit teacher details  
-- 📅 Attendance tracking: add, edit, and view attendance  
-- 🏫 Class management: configure classes and schedules  
-- 🖥️ User-friendly JavaFX GUI  
+## 🌟 Key Features
+- 🔒 **Secure login** with role-based access (Admin, Teacher, Student)  
+- 🧑‍🎓 **Student management**: add, edit, and view student records  
+- 👩‍🏫 **Teacher management**: add and edit teacher details  
+- 📅 **Attendance tracking**: add, edit, and view attendance  
+- 🏫 **Class management**: configure classes and schedules  
+- 🖥️ **User-friendly JavaFX GUI**  
 
 **Additional Capabilities:**
-- Login for teachers and students  
-- Teachers can mark attendance for students in their classes  
-- Students can view their attendance records  
-- Admin can generate reports and manage users  
-
+- 🔑 Login for teachers and students  
+- 📝 Teachers can mark attendance for students in their classes  
+- 📊 Students can view their attendance records  
+- 📂 Admin can generate reports and manage users  
 
 ---
 
@@ -84,12 +83,12 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 **Student Dashboard** to monitor attendance and academic information.  
 ![Student Panel](screenshots/student_panel.png)
 
-- **View Attendance** 📊  
-- **Access Class Details** 🏫
+- 📊 **View Attendance**  
+- 🏫 **Access Class Details**  
 
 ---
 
-## Installation
+## ⚙️ Installation
 1. Ensure **Java JDK 8+** is installed  
 2. Extract the project zip folder  
 3. Open the project in your preferred Java IDE (Eclipse, NetBeans, IntelliJ)  
@@ -98,7 +97,7 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ---
 
-## Usage
+## 🚀 Usage
 1. Login as **Admin, Teacher, or Student**  
 2. Navigate dashboards according to role:  
    - Admin: manage students, teachers, classes, and attendance  
@@ -108,7 +107,7 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ---
 
-## Implementation Steps
+## 🛠️ Implementation Steps
 1. Design the user interface using **JavaFX**  
 2. Connect to a **MySQL database** to store attendance records  
 3. Implement the core functionality, such as marking attendance and retrieving records  
@@ -117,7 +116,7 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 - **Programming Language:** Java  
 - **GUI Framework:** JavaFX  
 - **IDE Support:** Eclipse / NetBeans / IntelliJ IDEA  
@@ -125,7 +124,7 @@ AMS is developed using **Java SE (Standard Edition)** technologies, with **JavaF
 
 ---
 
-## License
+## 📄 License
 This project is **proprietary** and trademarked by **HarshVardhan**. Unauthorized use or distribution is prohibited.
 
 ---
